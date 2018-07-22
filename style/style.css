@@ -1,0 +1,62 @@
+.SearchStyle {
+    width: 40em;
+    marginLeft: 40px;
+}
+
+.Style {
+    width: 700px;
+    height: 100px;
+    borderRadius: 3%;
+    color: black;
+    padding: 2px 2px 2px 2px;
+    margin: 20px 20px 20px 40px;
+}
+
+.Style1 {
+    width: 700px;
+    height: 350px;
+    opacity: 0.9;
+    padding: 2px 2px 2px 2px;
+    margin: 20px 20px 20px 40px;
+    borderRadius: 0px;
+}
+
+.list-group-item {
+    background-color: beige;
+}
+.style{
+    border:2px solid black;
+    padding-top:20px;
+    padding-bottom: 20px;
+    margin-top:60px;
+    margin-left: 120px;
+    margin-right: 120px;
+    background-image: url("/test/Winter.jpg");
+}
+
+.styling{
+    padding-bottom: 10px;
+}
+
+.center{
+    color:white;
+    text-align: center;
+    padding-bottom: 60px;
+
+
+}
+
+.submit{
+    margin-top: 40px;
+    margin-left: 480px;
+}
+
+.thick{
+    width:500px;
+
+}
+
+.color1{
+    color:white;
+}
+
